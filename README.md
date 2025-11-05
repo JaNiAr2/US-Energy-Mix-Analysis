@@ -1,5 +1,5 @@
-## Hi there 👋
 
+This repository contains the code I created to evaluate changes in the US energy mix, as a whole and in its 50 states, during the first two decades of the 20th century. 
 <!--
 **JaNiAr2/JaNiAr2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
